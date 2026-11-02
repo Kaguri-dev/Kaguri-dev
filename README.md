@@ -36,19 +36,19 @@ Passionate about creating efficient, elegant software solutions. Focused on Go d
 ## Stats
 
 ### GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kaguri-dev&show_icons=true&theme=dark&bg_color=000&border_color=000&hide_border=true&hide_title=true&show_icons=true&count_private=true&line_height=30&hide_rank=true&ring=000&stroke=333&ring_width=2&rank_icon=github&show_owner=true)
+![GitHub Stats](https://github-readme-stats.netlify.app/api?username=Kaguri-dev&show_icons=true&theme=dark&hide_border=true&show_icons=true)
 
 ### Top Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kaguri-dev&layout=compact&theme=dark&border_color=000&border_radius=15&hide_border=true&show_icons=true&custom_title=Top%20Languages&hide_title=true&ring_width=0&ring_color=000&card_width=480&card_height=220&include_all_commits=true&show_owner=true&count_private=true&work_size_width=0&work_size_height=0&work_color=000&work_title_color=000&work_size_color=000)
+![Top Languages](https://github-readme-stats.netlify.app/api/top-langs/?username=Kaguri-dev&layout=compact&theme=dark&hide_border=true&show_icons=true&hide_title=true)
 
 ### Contribution Graph
 ![Contribution Graph](https://ghchart.rshah.org/Kaguri-dev)
 
 ### Streak
-![Streak](https://github-readme-streak-stats.herokuapp.com?user=Kaguri-dev&theme=dark&date_format=M%20j%5B%2C%20Y%5D&background=000&border=000&hide_border=true&currStreakLabel=fff&currStreakNum=fff&ring=000&stroke=333&fire=fff&sideNums=999&sideLabels=999&dates=999&hide_title=true&show_icons=false)
+![Streak](https://github-readme-streak-stats.herokuapp.com?user=Kaguri-dev&theme=dark&hide_border=true)
 
 ### Most Used Languages
-![Most Used Languages](https://github-readme-stats.vercel.app/api?username=Kaguri-dev&theme=dark&bg_color=000&border_color=000&hide_border=true&hide_title=true&show_icons=true&hide_rank=true&hide=stars&langs_count=10&line_height=20)
+![Most Used Languages](https://github-readme-stats.netlify.app/api?username=Kaguri-dev&theme=dark&hide_border=true&hide_title=true&show_icons=true)
 
 ---
 
