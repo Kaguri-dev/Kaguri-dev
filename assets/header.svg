@@ -33,9 +33,9 @@
       <stop offset="0.5" stop-color="#a3a3a3"/>
       <stop offset="1" stop-color="#ffffff"/>
     </linearGradient>
-    <linearGradient id="shimmer" x1="0" y1="0" x2="400" y2="0" gradientUnits="userSpaceOnUse">
+    <linearGradient id="shimmer" x1="0" y1="0" x2="1" y2="0">
       <stop offset="0" stop-color="#ffffff" stop-opacity="0"/>
-      <stop offset="0.5" stop-color="#ffffff" stop-opacity="0.18"/>
+      <stop offset="0.5" stop-color="#ffffff" stop-opacity="0.16"/>
       <stop offset="1" stop-color="#ffffff" stop-opacity="0"/>
     </linearGradient>
     <filter id="blur40" x="-50%" y="-50%" width="200%" height="200%">
@@ -52,16 +52,14 @@
     <style>
       @keyframes floatA { 0%{transform:translate(0,0) scale(1)} 50%{transform:translate(50px,-25px) scale(1.15)} 100%{transform:translate(0,0) scale(1)} }
       @keyframes floatB { 0%{transform:translate(0,0) scale(1)} 50%{transform:translate(-45px,20px) scale(1.2)} 100%{transform:translate(0,0) scale(1)} }
-      @keyframes shimmerMove { 0%{transform:translateX(-300px)} 100%{transform:translateX(1300px)} }
-      @keyframes pulse { 0%,100%{opacity:1} 50%{opacity:0.30} }
+      @keyframes shimmerMove { 0%{transform:translateX(0)} 100%{transform:translateX(1700px)} }
       @keyframes spin { 0%{transform:rotate(0deg)} 100%{transform:rotate(360deg)} }
       @keyframes bob { 0%,100%{transform:translateY(0)} 50%{transform:translateY(-4px)} }
       @keyframes slowzoom { 0%,100%{transform:scale(1)} 50%{transform:scale(1.06)} }
       .bglayer { animation: slowzoom 24s ease-in-out infinite; transform-origin: 600px 160px; }
       .orbA { animation: floatA 14s ease-in-out infinite; transform-origin: 200px 80px; }
       .orbB { animation: floatB 18s ease-in-out infinite; transform-origin: 1000px 240px; }
-      .shimmer { animation: shimmerMove 6s ease-in-out infinite; }
-      .dot { animation: pulse 2s ease-in-out infinite; }
+      .shimmer { animation: shimmerMove 5s linear infinite; }
       .ring { animation: spin 18s linear infinite; transform-origin: 150px 160px; }
       .bob { animation: bob 5s ease-in-out infinite; }
       .f { font-family: 'Inter','Segoe UI',Roboto,Helvetica,Arial,sans-serif; }
@@ -80,10 +78,11 @@
 
   <rect x="40" y="40" width="1120" height="240" rx="30" fill="url(#glass)" stroke="url(#glassStroke)" stroke-width="1.5" filter="url(#softShadow)"/>
   <rect x="40" y="40" width="1120" height="240" rx="30" fill="none" stroke="#ffffff" stroke-opacity="0.08" stroke-width="1"/>
-  <g clip-path="url(#cardClip)">
-    <rect class="shimmer" x="0" y="40" width="380" height="240" fill="url(#shimmer)" opacity="0.6"/>
-  </g>
   <rect x="41" y="41" width="1118" height="60" rx="29" fill="#ffffff" opacity="0.04"/>
+
+  <g clip-path="url(#cardClip)">
+    <rect class="shimmer" x="-500" y="0" width="500" height="320" fill="url(#shimmer)"/>
+  </g>
 
   <g>
     <circle cx="150" cy="160" r="78" fill="#000000" opacity="0.45" filter="url(#blur18)"/>
@@ -111,10 +110,5 @@
       <rect x="630" y="208" width="96" height="34" rx="17" fill="#ffffff" opacity="0.08" stroke="#ffffff" stroke-opacity="0.28"/>
       <text x="678" y="230" font-size="14" font-weight="600" fill="#ffffff" text-anchor="middle">Linux</text>
     </g>
-  </g>
-
-  <g>
-    <circle class="dot" cx="1040" cy="74" r="5" fill="#ffffff"/>
-    <text x="1054" y="79" font-size="14" font-weight="600" fill="#e5e5e5" class="f">Available</text>
   </g>
 </svg>
