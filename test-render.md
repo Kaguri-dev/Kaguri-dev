@@ -23,3 +23,21 @@
 
 ## 8 img draggable false
 <img src="https://raw.githubusercontent.com/Kaguri-dev/Kaguri-dev/main/assets/divider.svg" alt="t8" draggable="false">
+
+## 9 picture
+<picture><source srcset="https://raw.githubusercontent.com/Kaguri-dev/Kaguri-dev/main/assets/divider.svg"><img src="https://raw.githubusercontent.com/Kaguri-dev/Kaguri-dev/main/assets/divider.svg" alt="t9"></picture>
+
+## 10 anchor hashbang
+<a href="#!"><img src="https://raw.githubusercontent.com/Kaguri-dev/Kaguri-dev/main/assets/divider.svg" alt="t10"></a>
+
+## 11 inline svg
+<svg width="200" height="10" xmlns="http://www.w3.org/2000/svg"><rect width="200" height="10" fill="#fff"/></svg>
+
+## 12 figure
+<figure><img src="https://raw.githubusercontent.com/Kaguri-dev/Kaguri-dev/main/assets/divider.svg" alt="t12"></figure>
+
+## 13 anchor nonexistent fragment
+<a href="#kaguri-no-scroll"><img src="https://raw.githubusercontent.com/Kaguri-dev/Kaguri-dev/main/assets/divider.svg" alt="t13"></a>
+
+## 14 anchor same profile
+<a href="https://github.com/Kaguri-dev"><img src="https://raw.githubusercontent.com/Kaguri-dev/Kaguri-dev/main/assets/divider.svg" alt="t14"></a>
