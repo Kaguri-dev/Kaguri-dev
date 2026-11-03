@@ -41,3 +41,12 @@
 
 ## 14 anchor same profile
 <a href="https://github.com/Kaguri-dev"><img src="https://raw.githubusercontent.com/Kaguri-dev/Kaguri-dev/main/assets/divider.svg" alt="t14"></a>
+
+## 15 picture plain
+<picture><img src="https://raw.githubusercontent.com/Kaguri-dev/Kaguri-dev/main/assets/divider.svg" alt="t15" width="100%"></picture>
+
+## 16 picture typed
+<picture><source srcset="https://raw.githubusercontent.com/Kaguri-dev/Kaguri-dev/main/assets/divider.svg" type="image/svg+xml"><img src="https://raw.githubusercontent.com/Kaguri-dev/Kaguri-dev/main/assets/divider.svg" alt="t16" width="100%"></picture>
+
+## 17 picture badge
+<picture><img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="t17"></picture>
