@@ -1,5 +1,5 @@
 <p align="center">
-  <picture><img src="https://raw.githubusercontent.com/Kaguri-dev/Kaguri-dev/main/assets/header.svg?v=5" alt="Kaguri" width="100%"></picture>
+  <picture><img src="https://raw.githubusercontent.com/Kaguri-dev/Kaguri-dev/main/assets/header.svg?v=6" alt="Kaguri" width="100%"></picture>
 </p>
 
 <p align="center">
