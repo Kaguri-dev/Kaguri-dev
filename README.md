@@ -1,64 +1,75 @@
-# Kaguri
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Kaguri-dev/Kaguri-dev/main/assets/header.svg" alt="Kaguri" width="100%" />
+</p>
 
-**Software Engineer & Developer** at Kaguri Studios
-Full-stack developer building scalable systems with Go, TypeScript, and clean architecture
-
----
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Kaguri-dev/Kaguri-dev/main/assets/divider.svg" alt="" width="100%" />
+</p>
 
 ## About
 
-Passionate about creating efficient, elegant software solutions. Focused on Go development, system design, and building tools that make developers' lives easier. Currently working on projects at Kaguri Studios that push the boundaries of what's possible with modern web technologies.
+Backend and systems engineer focused on building fast, reliable software. I work with **Go**, **Python** and **TypeScript** on Linux, caring about clean architecture, performance and developer experience — from APIs and services to the tooling around them.
 
----
-
-## Skills
-
-![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Shell](https://img.shields.io/badge/Shell-B45008?style=flat-square&logo=gnu-bash&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-
----
-
-## Socials
-
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white)](https://kaguri.u.gy/discord)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://kaguri.u.gy/youtube)
-[![X](https://img.shields.io/badge/X-FFFFFF?style=flat-square&logo=x&logoColor=black)](https://kaguri.u.gy/twitter)
-[![Instagram](https://img.shields.io/badge/Instagram-E1306C?style=flat-square&logo=instagram&logoColor=white)](https://kaguri.u.gy/instagram)
-[![TikTok](https://img.shields.io/badge/TikTok-000000?style=flat-square&logo=tiktok&logoColor=white)](https://kaguri.u.gy/tiktok)
-
----
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Kaguri-dev/Kaguri-dev/main/assets/divider.svg" alt="" width="100%" />
+</p>
 
 ## Stats
 
-![GitHub Stats](https://github-readme-stats.netlify.app/api?username=Kaguri-dev&show_icons=true&theme=dark&hide_border=true&show_icons=true)
+<p align="center">
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Kaguri-dev&theme=github_dark&bg_color=00000000" alt="GitHub Stats" />
+  <img height="180" src="https://streak-stats.demolab.com?user=Kaguri-dev&background=00000000&border=ffffff25&stroke=94a3b8&ring=22d3ee&fire=a78bfa&currStreakNum=e2e8f0&sideNums=e2e8f0&currStreakLabel=67e8f9&sideLabels=94a3b8&dates=64748b" alt="Streak" />
+</p>
 
-![Top Languages](https://github-readme-stats.netlify.app/api/top-langs/?username=Kaguri-dev&layout=compact&theme=dark&hide_border=true&show_icons=true&hide_title=true)
+<p align="center">
+  <img height="195" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Kaguri-dev&theme=github_dark&bg_color=00000000" alt="Repos per Language" />
+  <img height="195" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Kaguri-dev&theme=github_dark&bg_color=00000000" alt="Most Commit Language" />
+</p>
 
-![Contribution Graph](https://ghchart.rshah.org/Kaguri-dev)
+<p align="center">
+  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kaguri-dev&theme=github_dark&bg_color=00000000" alt="Profile Details" />
+</p>
 
-![Streak](https://github-readme-streak-stats.herokuapp.com?user=Kaguri-dev&theme=dark&hide_border=true)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Kaguri-dev/Kaguri-dev/main/assets/divider.svg" alt="" width="100%" />
+</p>
 
-![Most Used Languages](https://github-readme-stats.netlify.app/api?username=Kaguri-dev&theme=dark&hide_border=true&hide_title=true&show_icons=true)
+## Skills
 
----
+<p align="center">
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+</p>
 
-## Work
+<p align="center">
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white" alt="Bash" />
+  <img src="https://img.shields.io/badge/Neovim-57A143?style=flat-square&logo=neovim&logoColor=white" alt="Neovim" />
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" alt="VS Code" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" alt="Redis" />
+  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="GitHub Actions" />
+</p>
 
-Building tools and systems that matter. Check out my repositories for code and projects.
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Kaguri-dev/Kaguri-dev/main/assets/divider.svg" alt="" width="100%" />
+</p>
 
----
+## Connect
 
-## Contact
+<p align="center">
+  <a href="https://kaguri.u.gy/discord"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
+  <a href="https://kaguri.u.gy/youtube"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" /></a>
+  <a href="https://kaguri.u.gy/twitter"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
+  <a href="https://kaguri.u.gy/instagram"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+  <a href="https://kaguri.u.gy/tiktok"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok" /></a>
+</p>
 
-Feel free to reach out through any of my social links above or via Discord.
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Kaguri-dev/Kaguri-dev/main/assets/divider.svg" alt="" width="100%" />
+</p>
 
----
-
-## Availability
-
-Available for collaboration and projects. Let's build something great together.
+<p align="center"><sub>Always open to collaboration — let’s build something great.</sub></p>
