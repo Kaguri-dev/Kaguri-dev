@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Kaguri-dev/Kaguri-dev/main/assets/header.svg" alt="Kaguri" width="100%" />
+  <img src="https://raw.githubusercontent.com/Kaguri-dev/Kaguri-dev/main/assets/header.svg?v=3" alt="Kaguri" width="100%" />
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Kaguri-dev/Kaguri-dev/main/assets/divider.svg" alt="" width="100%" />
+  <img src="https://raw.githubusercontent.com/Kaguri-dev/Kaguri-dev/main/assets/divider.svg?v=3" alt="" width="100%" />
 </p>
 
 ## About
@@ -11,7 +11,7 @@
 Backend and systems engineer focused on building fast, reliable software. I work with **Go**, **Python** and **TypeScript** on Linux, caring about clean architecture, performance and developer experience — from APIs and services to the tooling around them.
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Kaguri-dev/Kaguri-dev/main/assets/divider.svg" alt="" width="100%" />
+  <img src="https://raw.githubusercontent.com/Kaguri-dev/Kaguri-dev/main/assets/divider.svg?v=3" alt="" width="100%" />
 </p>
 
 ## Stats
@@ -31,7 +31,7 @@ Backend and systems engineer focused on building fast, reliable software. I work
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Kaguri-dev/Kaguri-dev/main/assets/divider.svg" alt="" width="100%" />
+  <img src="https://raw.githubusercontent.com/Kaguri-dev/Kaguri-dev/main/assets/divider.svg?v=3" alt="" width="100%" />
 </p>
 
 ## Skills
@@ -55,7 +55,7 @@ Backend and systems engineer focused on building fast, reliable software. I work
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Kaguri-dev/Kaguri-dev/main/assets/divider.svg" alt="" width="100%" />
+  <img src="https://raw.githubusercontent.com/Kaguri-dev/Kaguri-dev/main/assets/divider.svg?v=3" alt="" width="100%" />
 </p>
 
 ## Connect
@@ -69,7 +69,7 @@ Backend and systems engineer focused on building fast, reliable software. I work
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Kaguri-dev/Kaguri-dev/main/assets/divider.svg" alt="" width="100%" />
+  <img src="https://raw.githubusercontent.com/Kaguri-dev/Kaguri-dev/main/assets/divider.svg?v=3" alt="" width="100%" />
 </p>
 
 <p align="center"><sub>Always open to collaboration — let’s build something great.</sub></p>
