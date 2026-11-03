@@ -1,5 +1,5 @@
 <p align="center">
-  <picture><img src="https://raw.githubusercontent.com/Kaguri-dev/Kaguri-dev/main/assets/banner.svg?v=2" alt="Kaguri" width="100%"></picture>
+  <picture><img src="https://raw.githubusercontent.com/Kaguri-dev/Kaguri-dev/main/assets/banner-v3.svg" alt="Kaguri" width="100%"></picture>
 </p>
 
 <p align="center">
@@ -8,7 +8,7 @@
 
 ## About
 
-Backend and systems engineer focused on building fast, reliable software. I work with **Go**, **Python** and **TypeScript** on Linux, caring about clean architecture, performance and developer experience — from APIs and services to the tooling around them.
+Software developer focused on building reliable applications, automation and small utilities. I work with **Go**, **Python** and **TypeScript** on Linux, caring about clean architecture, performance and developer experience.
 
 <p align="center">
   <picture><img src="https://raw.githubusercontent.com/Kaguri-dev/Kaguri-dev/main/assets/divider.svg?v=4" alt="" width="100%"></picture>
@@ -40,18 +40,8 @@ Backend and systems engineer focused on building fast, reliable software. I work
   <picture><img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go"></picture>
   <picture><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"></picture>
   <picture><img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"></picture>
-</p>
-
-<p align="center">
-  <picture><img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux"></picture>
-  <picture><img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git"></picture>
-  <picture><img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker"></picture>
-  <picture><img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white" alt="Bash"></picture>
-  <picture><img src="https://img.shields.io/badge/Neovim-57A143?style=flat-square&logo=neovim&logoColor=white" alt="Neovim"></picture>
-  <picture><img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" alt="VS Code"></picture>
-  <picture><img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL"></picture>
-  <picture><img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" alt="Redis"></picture>
-  <picture><img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="GitHub Actions"></picture>
+  <picture><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"></picture>
+  <picture><img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code"></picture>
 </p>
 
 <p align="center">
